@@ -1,0 +1,20 @@
+Comandos para conectar ao repositorio e clonar os arquivos que a na maquina local no servidor remoto:
+
+git add remote origin https://github.com/wolffegan9696/PHP.git
+
+git config --global user.name " nome atribuido de usuario para todos os repositorios"
+
+git config --global user.email "email usado na conta do gibhub"
+
+*\\ o comando a seguir e usado para enviar as informações ao servidor e fazer a autenticação da ligação do repositorio
+com o repositorio do servidor e fazendo a clonagem//*
+
+git push origin master 
+
+
+esses são os comandos usados para poder fazer a ligação entre o repositorio local da sua maquina e o repositorio do servidor 
+do gibhub .
+
+obs:lembrando que para fazer a conexao vc precisa entrar no diretorio de origem local da sua maquina atraves do comando:
+
+cd C:\Arquivos e Programas techno\PHP\projeto\PHP

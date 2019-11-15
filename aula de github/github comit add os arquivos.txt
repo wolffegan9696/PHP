@@ -1,0 +1,6 @@
+aqui vc deve fazer esse codigo logo apos criar sua conta para dar certo
+
+entrar no diretorio 
+
+git add index.php
+git 
