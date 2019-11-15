@@ -1,10 +1,10 @@
 <?php
 
 
-echo"ola mundo 456";
+<<<<<<< HEAD
 
-echo"grana grana";
+echo"ola mundo 123";
 
-
+echo"estou  sem dinheiro";
 
 ?>
